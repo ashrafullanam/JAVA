@@ -11,6 +11,7 @@ public class JavaMethod {
 
           for (int i = 0; i < 50; i++) {
 	        System.out.print(alphabet.charAt(s.nextInt(N))+" ");
+		  //here
 	    }
 		
 		
